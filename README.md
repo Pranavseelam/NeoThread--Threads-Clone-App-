@@ -1,6 +1,6 @@
 # Threads Clone
 
-A full-stack social media application inspired by Threads, built with Next.js 14, MongoDB, and Clerk authentication.
+A full-stack social media application inspired by Threads, built with Next.js 15, MongoDB, and Clerk authentication.
 
 ## Overview
 
@@ -43,7 +43,7 @@ This project is a feature-rich social media platform that replicates and enhance
 
 ### Frontend
 
-- **Next.js 14**: Utilizing server-side rendering for optimal performance
+- **Next.js 15**: Utilizing server-side rendering for optimal performance
 - **TypeScript**: For type-safe code
 - **Tailwind CSS**: For responsive and beautiful layouts
 - **Shadcn Components**: Enhanced UI components
@@ -67,7 +67,7 @@ This project is a feature-rich social media platform that replicates and enhance
 
 ## Project Structure
 
-The application uses Next.js 14's app router and route groups for organization:
+The application uses Next.js 15's app router and route groups for organization:
 
 - **(auth)**: Contains authentication-related routes
 
